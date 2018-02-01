@@ -34,7 +34,8 @@ public class Person2 {
 	 */
 	private String calc(String input) {
 	  //Person 2 put your implementation here
-	  List<Character> chars = new ArrayList<Characters>();
+	  List<Character> chars = new ArrayList<Character>();
+
 		for (char c : input.toCharArray()) {
 			chars.add(c);
 		}
